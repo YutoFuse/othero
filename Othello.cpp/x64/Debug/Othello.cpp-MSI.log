@@ -1,0 +1,2 @@
+﻿  main.cpp
+x64\Debug\main.obj : fatal error LNK1107: invalid or corrupt file: cannot read at 0x0
